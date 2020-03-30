@@ -1,7 +1,9 @@
 # Kuss_Faceshield_Frame
 We developed this Faceshield Frame to be injection moulded as well as 3D printed.
 
-Spacing for the holes of the transperent plastic shield is 80mm (typical size of an european paper perforator)
+Spacing for the holes of the transparent plastic shield is 80mm (typical size of an european paper perforator)
+You can use A4 transparent sheets (landscape orientation).
+We also included a .dxf to laser/cut the shields.
 
 Elastic Headband can be attatched.
 
