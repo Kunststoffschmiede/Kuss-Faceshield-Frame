@@ -9,4 +9,6 @@ Elastic Headband can be attatched.
 
 STL file is cut off 0.7mm at the bottom to allow clean printing.
 
+// Take a look at the WIKI for more detailed instructions! //
+
 (Attribution-NonCommercial-ShareAlike Licence)
