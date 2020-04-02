@@ -6,7 +6,7 @@ Even though time is pressing, we strongly advise against the use of virgin plast
 
 If you are struggling to obtain some in your area (Germany/Austria/Switzerland + possibly rest of Europe), we can help! Please get in touch: info@kunststoffschmiede.org // +49 172 1407156
 
-For the rest of the world please visit cirplus.com (for injections moulding pellets)
+For the rest of the world please visit www.cirplus.com (for injections moulding pellets)
 
 
 // Product Info:
