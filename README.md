@@ -15,8 +15,8 @@ We optimized this Faceshield Frame to be injection moulded. Use the .step file f
 
 Furthermore we developed a 3D printing optimized version of the model. Use the .STL file from the folder for that.
 
-The plastic sheet can be lasercutted out of 0.4-0.8 mm thick sheet of PET. Us the provided .DXF for that.
-If you dont have a lasercutter you can use an A4 size sheet and a paper perforator (with 80 mm hole spacing)
+The plastic sheet can be lasercut out of 0.4-0.8 mm thick sheet of PET. Use the provided .DXF for that.
+If you don't have a lasercutter you can use an A4 size sheet and a paper perforator (with 80 mm hole spacing)
 
 Elastic Headband can be attatched as well.
 
